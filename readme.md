@@ -11,5 +11,6 @@ Lembre-se de ter o kubeconfig corretamente configurado no arquivo ou passar o ca
 *** Modo alternativo de instalar o PYKUBE-NG:
 
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+
 python3 get-pip.py
 
